@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/donut.gif"
+    src="./donut.gif"
     width="320"
     alt="Rotating ASCII donut"
   />
